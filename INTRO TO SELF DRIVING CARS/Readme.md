@@ -11,5 +11,3 @@ PID controller is used to control the throttle position.
 Stanley controller is used to control the steering position. 
 
 ## Demo
-
-[![demo_gif1](https://gifs.com/gif/carla-demo-p8ppxr)](https://www.youtube.com/watch?v=5HUPR2T8UGE)
